@@ -1,0 +1,18 @@
+VIDEO LINK
+https://drive.google.com/file/d/1GyRc6jY0Jzdn7KeuNJw7CY_wvjgXppkB/view?usp=sharing
+
+BEFORE RUNNING
+1. Execute "make clean"
+2. Execute "make" 
+3. If target_results and solution_results are existed, Delete them(It is important).
+
+FOR RUNNING
+1. ENTER Command "./pctest -i /home/s21600786/OShw2/TESTS -t 10 solution target"
+2. If you do not enter like this, PCTEST cannot run.
+
+FOR TESTING
+1. If you check the error case, you can change error type in target.c
+2. FOR making error, you should set #define ERRORMODE 1, and then make another options
+3. If you do not check ERRORMODE, it will be make unexpected errors.
+
+Thank you :)
